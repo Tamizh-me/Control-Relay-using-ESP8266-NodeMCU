@@ -17,3 +17,5 @@ Open the Serial Monitor at a baud rate of 115200 and press the ESP8266 RST butto
 
 Use this IP to control relays.
 
+
+CH34x_Install_Windows_v3_4.zip is the Driver for ESP8266
